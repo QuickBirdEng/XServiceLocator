@@ -1,0 +1,31 @@
+# Mac OS X
+*.DS_Store
+
+# Xcode
+.build
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.xcuserstate
+project.xcworkspace/
+xcuserdata/
+Pods/*.xcodeproj/xcuserdata/
+xcuserdata/
+/.build
+/Packages
+
+# Generated files
+*.o
+*.pyc
+
+# Docs
+docs/docsets/XCoordinator.tgz
+docs/undocumented.json
+
+# Backup files
+*~.nib
+\#*#
+.#*
+
+.swiftpm
